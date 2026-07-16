@@ -25,7 +25,8 @@ export default function Legal() {
             </div>
             <div>
               <h2 className="font-heading font-semibold text-primary mb-2">Hébergement</h2>
-              <p>[Nom, adresse et contact de l'hébergeur à compléter]</p>
+              <p>Le site est hébergé par la société Vercel Inc., située au 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis.
+Contact : https://vercel.com ou par e-mail à privacy@vercel.com.</p>
             </div>
             <div>
               <h2 className="font-heading font-semibold text-primary mb-2">Données personnelles</h2>
