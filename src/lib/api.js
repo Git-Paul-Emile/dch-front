@@ -2,7 +2,10 @@
 // En développement, Vite proxy /api vers http://localhost:4000 (voir vite.config.js).
 // En production, définir VITE_API_URL (ex: https://api.dch-nettoyage.fr) dans un fichier .env.
 
-const API_BASE = import.meta.env.VITE_API_URL || '/api/v1'
+const rawApiUrl = import.meta.env.VITE_API_URL
+const API_BASE = rawApiUrl 
+  ? (rawApiUrl.endsWith('/api/v1') ? rawApiUrl : `${rawApiUrl.replace(/\/$/, '')}/api/v1`)
+  : '/api/v1'
 
 class ApiError extends Error {
   constructor(message, status, details) {
