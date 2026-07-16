@@ -1,0 +1,80 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,jsx}'],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          DEFAULT: '#0B1F4B',
+          50: '#EBEEF5',
+          100: '#D3DAE9',
+          200: '#A7B5D3',
+          300: '#7B90BD',
+          400: '#4F6BA7',
+          500: '#2C4785',
+          600: '#0B1F4B',
+          700: '#091A3F',
+          800: '#071433',
+          900: '#050F27',
+        },
+        accent: {
+          DEFAULT: '#F5820D',
+          50: '#FEF3E7',
+          100: '#FCE2C3',
+          200: '#F9C787',
+          300: '#F7AB4B',
+          400: '#F5960F',
+          500: '#F5820D',
+          600: '#CC6B0A',
+          700: '#A35508',
+          800: '#7A3F06',
+          900: '#512A04',
+        },
+        ink: '#12172B',
+        surface: {
+          DEFAULT: '#FFFFFF',
+          muted: '#F4F6FA',
+          border: '#E2E6EF',
+        },
+        success: '#1E8E5A',
+        danger: '#D64545',
+        warning: '#E0A324',
+        info: '#2C6FBB',
+      },
+      fontFamily: {
+        heading: ['Poppins', 'sans-serif'],
+        body: ['Inter', 'sans-serif'],
+        accent: ['"Caveat"', 'cursive'],
+      },
+      fontSize: {
+        xs: ['0.75rem', { lineHeight: '1.5' }],
+        sm: ['0.875rem', { lineHeight: '1.5' }],
+        base: ['1rem', { lineHeight: '1.5' }],
+        lg: ['1.25rem', { lineHeight: '1.4' }],
+        xl: ['1.5625rem', { lineHeight: '1.3' }],
+        '2xl': ['1.953rem', { lineHeight: '1.25' }],
+        '3xl': ['2.441rem', { lineHeight: '1.2' }],
+        '4xl': ['3.052rem', { lineHeight: '1.15' }],
+      },
+      borderRadius: {
+        sm: '4px',
+        DEFAULT: '8px',
+        lg: '12px',
+        xl: '16px',
+      },
+      boxShadow: {
+        sm: '0 1px 2px 0 rgba(11, 31, 75, 0.06)',
+        DEFAULT: '0 4px 12px -2px rgba(11, 31, 75, 0.10)',
+        lg: '0 12px 32px -8px rgba(11, 31, 75, 0.18)',
+      },
+      maxWidth: {
+        content: '1280px',
+        prose: '65ch',
+      },
+      transitionDuration: {
+        DEFAULT: '200ms',
+      },
+    },
+  },
+  plugins: [],
+}
