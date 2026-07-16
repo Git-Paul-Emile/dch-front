@@ -17,7 +17,7 @@ export const company = {
   address: '155 rue du Faubourg Saint-Denis, 75010 Paris',
   zone: 'Paris et Île-de-France',
   hours: 'Lun–Sam : 9h–18h',
-  siret: '[Numéro SIRET à compléter]',
+  siret: '919 603 480 00014',
   training: "Techniciens formés par l'IFEH (Institut de Formation Européen d'Hygiène)",
   instagram: 'https://www.instagram.com/dchnm01',
   linkedin: 'https://www.linkedin.com/in/dch-nettoyage-multi-services-67a62a289',

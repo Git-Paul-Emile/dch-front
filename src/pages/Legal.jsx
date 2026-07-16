@@ -21,7 +21,7 @@ export default function Legal() {
             </div>
             <div>
               <h2 className="font-heading font-semibold text-primary mb-2">Directeur de la publication</h2>
-              <p>[Nom du représentant légal à compléter]</p>
+              <p>Christian Hubert Donga</p>
             </div>
             <div>
               <h2 className="font-heading font-semibold text-primary mb-2">Hébergement</h2>
@@ -37,7 +37,7 @@ export default function Legal() {
             </div>
             <div>
               <h2 className="font-heading font-semibold text-primary mb-2">Cookies</h2>
-              <p>Ce site n'utilise pas de cookies de suivi publicitaire. [À adapter selon les outils réellement utilisés : analytics, etc.]</p>
+              <p>Ce site n'utilise pas de cookies de suivi publicitaire.</p>
             </div>
           </div>
         </div>
