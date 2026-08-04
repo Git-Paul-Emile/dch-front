@@ -21,6 +21,9 @@ export const company = {
   training: "Techniciens formés par l'IFEH (Institut de Formation Européen d'Hygiène)",
   instagram: 'https://www.instagram.com/dchnm01',
   linkedin: 'https://www.linkedin.com/in/dch-nettoyage-multi-services-67a62a289',
+  facebook: 'https://www.facebook.com/share/19Wy76Mkxp/',
+  tiktok: 'https://www.tiktok.com/@dchnm.com?_r=1&_t=ZS-98XyaHR69ll',
+  x: 'https://x.com/DCH061392619080',
 }
 
 // Certifications et labels affichés sur les supports officiels de l'entreprise.

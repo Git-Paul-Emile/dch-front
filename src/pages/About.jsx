@@ -108,9 +108,12 @@ export default function About() {
             <p className="text-ink/70 mb-4">
               Retrouvez nos interventions et coulisses de chantier sur nos réseaux.
             </p>
-            <div className="flex gap-3">
+            <div className="flex flex-wrap gap-3">
               <a href={company.instagram} target="_blank" rel="noopener noreferrer" className="btn-outline">Instagram</a>
               <a href={company.linkedin} target="_blank" rel="noopener noreferrer" className="btn-outline">LinkedIn</a>
+              <a href={company.facebook} target="_blank" rel="noopener noreferrer" className="btn-outline">Facebook</a>
+              <a href={company.tiktok} target="_blank" rel="noopener noreferrer" className="btn-outline">TikTok</a>
+              <a href={company.x} target="_blank" rel="noopener noreferrer" className="btn-outline">X</a>
             </div>
           </div>
         </div>
