@@ -63,8 +63,9 @@ export default function Services() {
   return (
     <>
       <Seo
-        title="Nos services"
-        description="Assistance de vie, nettoyage et désinfection, débarras, jardinage et petit bricolage, garde d'animaux, import-export : découvrez l'ensemble des prestations de DCH Nettoyage Multiservices."
+        title="Services de nettoyage, désinfection, débarras et multiservices à Paris"
+        description="Découvrez nos services de nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection, débarras, jardinage et assistance à domicile à Paris et en Île-de-France."
+        keywords="nettoyage bureaux Paris, nettoyage de bureaux Paris, nettoyage locaux professionnels, nettoyage entreprises Paris, nettoyage fin de chantier, désinfection locaux professionnels, débarras Paris, jardinage Paris, aide domicile Paris"
         path="/services"
       />
 
@@ -72,12 +73,12 @@ export default function Services() {
         <div className="container-content py-16 sm:py-20">
           <span className="eyebrow text-accent">Nos services</span>
           <h1 className="text-3xl sm:text-4xl font-heading font-extrabold text-white max-w-2xl">
-            Six domaines de prestations, une même exigence de qualité
+            Services de nettoyage professionnel et multiservices à Paris et en Île-de-France
           </h1>
           <p className="mt-4 text-white/80 max-w-2xl">
-            Assistance de vie, propreté, débarras, jardinage, animaux de compagnie, import-export :
-            des prestations réalisées par un personnel qualifié, dans le respect des normes d'hygiène,
-            de sécurité et de confidentialité.
+            Nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier,
+            désinfection, débarras, jardinage, assistance à domicile et garde d'animaux : des prestations
+            réalisées par un personnel qualifié, dans le respect des normes d'hygiène, de sécurité et de confidentialité.
           </p>
         </div>
       </section>

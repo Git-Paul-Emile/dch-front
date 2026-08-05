@@ -20,8 +20,9 @@ export default function Home() {
   return (
     <>
       <Seo
-        title="Nettoyage, services à la personne et multiservices à Paris et en Île-de-France"
-        description="DCH Nettoyage Multiservices : nettoyage et désinfection, assistance de vie aux familles et personnes âgées, débarras, jardinage, garde d'animaux et import-export. Devis gratuit sous 24h."
+        title="Entreprise de nettoyage Paris et Île-de-France | Nettoyage bureaux, locaux professionnels et désinfection"
+        description="DCH Nettoyage Multiservices est votre entreprise de nettoyage Paris et Île-de-France : nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection et débarras. Devis gratuit et réponse sous 24h."
+        keywords="entreprise de nettoyage Paris, société de nettoyage Paris, entreprise multiservices Paris, nettoyage professionnel Paris, nettoyage et désinfection Paris, services de nettoyage Ile-de-France, entreprise de propreté Paris, entreprise de nettoyage Île-de-France"
         path="/"
       />
 
@@ -38,12 +39,13 @@ export default function Home() {
           <div className="max-w-2xl">
             <span className="eyebrow text-accent">Nettoyage multiservices</span>
             <h1 className="text-3xl sm:text-4xl font-heading font-extrabold text-white leading-tight">
-              Des locaux impeccables, une équipe de confiance
+              Entreprise de nettoyage à Paris et en Île-de-France
             </h1>
             <p className="mt-5 text-lg text-white/85 max-w-xl">
-              Nous travaillons pour le bien-être de nos clients : nettoyage et désinfection de vos locaux,
-              assistance de vie aux familles et aux personnes âgées, débarras, jardinage et petit bricolage.
-              Une équipe qualifiée, des interventions fiables, à Paris et en Île-de-France.
+              DCH Nettoyage Multiservices accompagne les entreprises, commerces, bureaux et particuliers
+              avec un service de nettoyage professionnel Paris, nettoyage de bureaux Paris, nettoyage de locaux
+              professionnels, désinfection des espaces et remise en état après travaux. Une équipe qualifiée,
+              des interventions fiables et un devis gratuit sous 24h.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <Link to="/contact" className="btn-primary">
@@ -71,10 +73,11 @@ export default function Home() {
         <div className="container-content">
           <div className="max-w-2xl mb-12">
             <span className="eyebrow">Nos prestations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold">Six domaines de prestations multiservices</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold">Nettoyage de bureaux, locaux professionnels, fin de chantier et désinfection</h2>
             <p className="mt-4 text-ink/70">
-              De l'assistance de vie à domicile au nettoyage professionnel, en passant par le débarras
-              et le jardinage : chaque besoin a ses contraintes, nous adaptons nos équipes en conséquence.
+              De l'assistance de vie à domicile au nettoyage professionnel Paris et en Île-de-France, en passant par
+              le débarras, le jardinage et le petit bricolage : chaque besoin a ses contraintes, nous adaptons nos équipes
+              en conséquence pour une qualité de service constante.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">

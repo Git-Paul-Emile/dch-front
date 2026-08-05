@@ -129,8 +129,9 @@ export default function Contact() {
   return (
     <>
       <Seo
-        title="Contact & devis gratuit"
-        description="Contactez DCH Nettoyage Multiservices pour un devis gratuit et sans engagement. Réponse sous 24h."
+        title="Contact & devis nettoyage Paris | DCH Nettoyage Multiservices"
+        description="Demandez un devis gratuit pour votre nettoyage de bureaux, nettoyage de locaux professionnels, désinfection, débarras ou jardinage à Paris et en Île-de-France. Réponse sous 24h."
+        keywords="devis nettoyage Paris, devis gratuit nettoyage, tarif nettoyage entreprise, nettoyage urgent Paris, intervention rapide nettoyage, nettoyage 7j/7, nettoyage 24h/24"
         path="/contact"
       />
 
