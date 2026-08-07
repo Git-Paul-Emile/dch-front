@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dch-nettoyage.fr/sitemap.xml
+Sitemap: https://www.dch-nm.com/sitemap.xml

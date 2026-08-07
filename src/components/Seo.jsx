@@ -2,7 +2,7 @@ import { Helmet } from 'react-helmet-async'
 
 export default function Seo({ title, description, path = '', keywords = '' }) {
   const fullTitle = `${title} | DCH Nettoyage Multiservices`
-  const url = `https://www.dch-nettoyage.fr${path}`
+  const url = `https://www.dch-nm.com${path}`
 
   return (
     <Helmet>

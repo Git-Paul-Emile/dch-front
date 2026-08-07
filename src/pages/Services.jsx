@@ -65,7 +65,7 @@ export default function Services() {
       <Seo
         title="Services de nettoyage, désinfection, débarras et multiservices à Paris"
         description="Découvrez nos services de nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection, débarras, jardinage et assistance à domicile à Paris et en Île-de-France."
-        keywords="nettoyage bureaux Paris, nettoyage de bureaux Paris, nettoyage locaux professionnels, nettoyage entreprises Paris, nettoyage fin de chantier, désinfection locaux professionnels, débarras Paris, jardinage Paris, aide domicile Paris"
+        keywords="services, nettoyage, Paris, bureaux, locaux, professionnels, fin de chantier, désinfection, débarras, jardinage, aide à domicile, nettoyage de bureaux, nettoyage locaux professionnels, nettoyage entreprises, désinfection locaux professionnels"
         path="/services"
       />
 

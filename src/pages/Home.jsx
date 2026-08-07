@@ -22,7 +22,7 @@ export default function Home() {
       <Seo
         title="Entreprise de nettoyage Paris et Île-de-France | Nettoyage bureaux, locaux professionnels et désinfection"
         description="DCH Nettoyage Multiservices est votre entreprise de nettoyage Paris et Île-de-France : nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection et débarras. Devis gratuit et réponse sous 24h."
-        keywords="entreprise de nettoyage Paris, société de nettoyage Paris, entreprise multiservices Paris, nettoyage professionnel Paris, nettoyage et désinfection Paris, services de nettoyage Ile-de-France, entreprise de propreté Paris, entreprise de nettoyage Île-de-France"
+        keywords="entreprise, nettoyage, Paris, Île-de-France, bureaux, locaux, professionnels, désinfection, débarras, entreprise de nettoyage, société de nettoyage, nettoyage professionnel, nettoyage et désinfection, services de nettoyage, entreprise de propreté"
         path="/"
       />
 
