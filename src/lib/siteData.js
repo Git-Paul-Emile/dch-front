@@ -15,8 +15,8 @@ export const company = {
   phone2Href: 'tel:+33753934345',
   email: 'dch.multiservice@yahoo.com',
   address: '155 rue du Faubourg Saint-Denis, 75010 Paris',
-  zone: 'Paris et Île-de-France',
-  hours: 'Lun–Sam : 9h–18h',
+  zone: 'Paris et Île de France',
+  hours: 'Lun–Sam : 7h–18h',
   siret: '919 603 480 00014',
   training: "Techniciens formés par l'IFEH (Institut de Formation Européen d'Hygiène)",
   instagram: 'https://www.instagram.com/dchnm01',
@@ -166,7 +166,7 @@ export const audiences = [
 
 // end : valeur numérique finale utilisée pour l'animation du compteur (CountUp).
 export const stats = [
-  { end: 6, suffix: 'j/7', label: 'Du lundi au samedi, 9h–18h' },
+  { end: 6, suffix: 'j/7', label: 'Du lundi au samedi, 7h–18h' },
   { end: 24, prefix: '< ', suffix: 'h', label: 'Délai de réponse à vos demandes' },
   { end: 100, suffix: '%', label: 'Techniciens formés IFEH' },
   { end: 6, suffix: '', label: 'Domaines de prestations multiservices' },
@@ -213,7 +213,7 @@ export const testimonials = [
   {
     quote: "Réactifs, propres sur eux, et toujours à l'écoute de nos remarques. Exactement ce qu'on cherchait.",
     author: 'Isabelle R.',
-    role: 'Gestionnaire de copropriété · Île-de-France',
+    role: 'Gestionnaire de copropriété · Île de France',
   },
 ]
 

@@ -20,9 +20,9 @@ export default function Home() {
   return (
     <>
       <Seo
-        title="Entreprise de nettoyage Paris et Île-de-France | Nettoyage bureaux, locaux professionnels et désinfection"
-        description="DCH Nettoyage Multiservices est votre entreprise de nettoyage Paris et Île-de-France : nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection et débarras. Devis gratuit et réponse sous 24h."
-        keywords="entreprise, nettoyage, Paris, Île-de-France, bureaux, locaux, professionnels, désinfection, débarras, entreprise de nettoyage, société de nettoyage, nettoyage professionnel, nettoyage et désinfection, services de nettoyage, entreprise de propreté"
+        title="Entreprise de nettoyage Paris et Île de France | Nettoyage bureaux, locaux professionnels et désinfection"
+        description="DCH Nettoyage Multiservices est votre entreprise de nettoyage Paris et Île de France : nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection et débarras. Devis gratuit et réponse sous 24h."
+        keywords="entreprise, nettoyage, Paris, Île de France, bureaux, locaux, professionnels, désinfection, débarras, entreprise de nettoyage, société de nettoyage, nettoyage professionnel, nettoyage et désinfection, services de nettoyage, entreprise de propreté"
         path="/"
       />
 
@@ -39,7 +39,7 @@ export default function Home() {
           <div className="max-w-2xl">
             <span className="eyebrow text-accent">Nettoyage multiservices</span>
             <h1 className="text-3xl sm:text-4xl font-heading font-extrabold text-white leading-tight">
-              Entreprise de nettoyage à Paris et en Île-de-France
+              Entreprise de nettoyage à Paris et en Île de France
             </h1>
             <p className="mt-5 text-lg text-white/85 max-w-xl">
               DCH Nettoyage Multiservices accompagne les entreprises, commerces, bureaux et particuliers
@@ -75,7 +75,7 @@ export default function Home() {
             <span className="eyebrow">Nos prestations</span>
             <h2 className="text-2xl sm:text-3xl font-bold">Nettoyage de bureaux, locaux professionnels, fin de chantier et désinfection</h2>
             <p className="mt-4 text-ink/70">
-              De l'assistance de vie à domicile au nettoyage professionnel Paris et en Île-de-France, en passant par
+              De l'assistance de vie à domicile au nettoyage professionnel Paris et en Île de France, en passant par
               le débarras, le jardinage et le petit bricolage : chaque besoin a ses contraintes, nous adaptons nos équipes
               en conséquence pour une qualité de service constante.
             </p>

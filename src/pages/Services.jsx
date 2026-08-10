@@ -64,7 +64,7 @@ export default function Services() {
     <>
       <Seo
         title="Services de nettoyage, désinfection, débarras et multiservices à Paris"
-        description="Découvrez nos services de nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection, débarras, jardinage et assistance à domicile à Paris et en Île-de-France."
+        description="Découvrez nos services de nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier, désinfection, débarras, jardinage et assistance à domicile à Paris et en Île de France."
         keywords="services, nettoyage, Paris, bureaux, locaux, professionnels, fin de chantier, désinfection, débarras, jardinage, aide à domicile, nettoyage de bureaux, nettoyage locaux professionnels, nettoyage entreprises, désinfection locaux professionnels"
         path="/services"
       />
@@ -73,7 +73,7 @@ export default function Services() {
         <div className="container-content py-16 sm:py-20">
           <span className="eyebrow text-accent">Nos services</span>
           <h1 className="text-3xl sm:text-4xl font-heading font-extrabold text-white max-w-2xl">
-            Services de nettoyage professionnel et multiservices à Paris et en Île-de-France
+            Services de nettoyage professionnel et multiservices à Paris et en Île de France
           </h1>
           <p className="mt-4 text-white/80 max-w-2xl">
             Nettoyage de bureaux, nettoyage de locaux professionnels, nettoyage fin de chantier,
