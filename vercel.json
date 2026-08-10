@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/contact.php",
+      "destination": "/contact",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",
