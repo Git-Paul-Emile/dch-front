@@ -33,9 +33,6 @@ export default function About() {
                 nos interventions à votre activité, vos horaires et vos contraintes.
               </p>
               <p>{company.training}.</p>
-              <p className="text-ink/50 text-sm">
-                [Section à compléter : date de création, effectif de l'équipe.]
-              </p>
             </div>
           </div>
           <div className="flex items-center justify-center">
