@@ -8,7 +8,7 @@ export const company = {
   legalName: 'DCH Nettoyage Multi-Services',
   claim: 'Des locaux impeccables, une équipe de confiance.',
   description:
-    "Créée le 1 septembre 2022,est une entreprise multiservices basée à Paris 10e, nous travaillons pour le bien-être de nos clients : nettoyage, désinfection et entretien de locaux, assistance de vie aux familles et aux personnes âgées, débarras, jardinage et petit bricolage, soins et promenade d'animaux de compagnie, import-export de produits non réglementés. Nos prestations sont réalisées par un personnel qualifié, dans le respect des normes d'hygiène, de sécurité et de confidentialité.",
+    "Créée le 1 septembre 2022, DCH Nettoyage est une entreprise multiservices basée à Paris 10e, nous travaillons pour le bien-être de nos clients : nettoyage, désinfection et entretien de locaux, assistance de vie aux familles et aux personnes âgées, débarras, jardinage et petit bricolage, soins et promenade d'animaux de compagnie, import-export de produits non réglementés. Nos prestations sont réalisées par un personnel qualifié, dans le respect des normes d'hygiène, de sécurité et de confidentialité.",
   phone: '06 05 96 96 52',
   phoneHref: 'tel:+33605969652',
   phone2: '07 53 93 43 45',
